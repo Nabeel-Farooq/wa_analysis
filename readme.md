@@ -1,7 +1,5 @@
 # WhatsApp Chat Analyzer
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/1abhi6/whatsapp-chat-analyzer/blob/main/LICENSE)
-
 A Python tool to analyze and visualize WhatsApp chat data.
 
 ## Project Demonstration
@@ -130,9 +128,3 @@ Here are some examples of the insights you can obtain using WhatsApp Chat Analyz
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
-
-## Contact
-
-For any questions or inquiries, feel free to reach out to me at:
-
-- Linkedin: [Abhishek Gupta](https://www.linkedin.com/in/codeabhi/)
